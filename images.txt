@@ -7,3 +7,4 @@ vinlic/spark-free-api
 whyour/qinglong
 yidadaa/chatgpt-next-web
 ghcr.io/open-webui/open-webui
+lobehub/lobe-chat
