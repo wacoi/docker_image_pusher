@@ -1,7 +1,7 @@
 helloz/onenav
 martialbe/one-api
 vinlic/deepseek-free-api
-vinlic/glm-free-api
+vinlic/kimi-free-api
 vinlic/qwen-free-api
 vinlic/spark-free-api
 whyour/qinglong
