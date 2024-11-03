@@ -1,3 +1,4 @@
+wojiushixiaobai/dataease
 helloz/onenav
 martialbe/one-api
 vinlic/deepseek-free-api
@@ -7,4 +8,3 @@ vinlic/spark-free-api
 whyour/qinglong
 yidadaa/chatgpt-next-web
 lobehub/lobe-chat
-budtmo/docker-android:emulator_14.0
