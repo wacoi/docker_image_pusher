@@ -8,3 +8,4 @@ vinlic/spark-free-api
 whyour/qinglong
 yidadaa/chatgpt-next-web
 lobehub/lobe-chat
+mysql
