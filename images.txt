@@ -2,6 +2,7 @@ helloz/onenav
 martialbe/one-api
 vinlic/kimi-free-api
 vinlic/glm-free-api
+vinlic/deepseek-free-api
 whyour/qinglong
 yidadaa/chatgpt-next-web
 lobehub/lobe-chat
