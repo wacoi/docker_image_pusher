@@ -1,5 +1,5 @@
 helloz/onenav
-mcr.microsoft.com/mssql/server
+microsoft/mssql-server
 martialbe/one-api
 vinlic/kimi-free-api
 vinlic/glm-free-api
