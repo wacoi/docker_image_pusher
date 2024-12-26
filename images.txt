@@ -1,3 +1,4 @@
+moelin/1panel
 helloz/onenav
 rapidfort/microsoft-sql-server-2019-ib
 martialbe/one-api
