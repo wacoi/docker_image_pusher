@@ -9,3 +9,4 @@ whyour/qinglong
 yidadaa/chatgpt-next-web
 lobehub/lobe-chat
 dmtc/bitwarden
+rfym21/qwen2api
