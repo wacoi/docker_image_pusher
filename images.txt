@@ -1,4 +1,5 @@
 moelin/1panel
+stirlingtools/stirling-pdf
 linqiu1199/augment2api
 icepage/aujc
 helloz/onenav
