@@ -1,15 +1,8 @@
-moelin/1panel
+pubuzhixing/drawnix
 stirlingtools/stirling-pdf
 linqiu1199/augment2api
 icepage/aujc
-helloz/onenav
 rapidfort/microsoft-sql-server-2019-ib
-martialbe/one-api
-vinlic/kimi-free-api
-vinlic/glm-free-api
-vinlic/deepseek-free-api
 whyour/qinglong
-yidadaa/chatgpt-next-web
 lobehub/lobe-chat
 dmtc/bitwarden
-rfym21/qwen2api
